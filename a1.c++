@@ -2,6 +2,10 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
+class gfg
+{
+    int x;
+};
 class Term
 {
 public:
